@@ -1,0 +1,28 @@
+.btn {
+    margin: 10px;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.btn:nth-child(1) {
+    display: block;
+}
+
+.btn:nth-child(2) {
+    display: inline;
+}
+
+.btn:nth-child(3) {
+    display: inline-table;
+}
+
+.btn:nth-child(4) {
+    display: list-item;
+}
+
+.btn:nth-child(5) {
+    display: inline-block;
+}
